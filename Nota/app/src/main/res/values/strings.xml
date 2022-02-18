@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Nota</string>
+    <string name="primer_sistematico">Primer Sistematico</string>
+    <string name="notas">Notas</string>
+    <string name="segundo_sistemtico">Segundo Sistemtico</string>
+    <string name="examen_final">Examen final</string>
+    <string name="calcular_nota_final">Calcular nota final</string>
+</resources>
